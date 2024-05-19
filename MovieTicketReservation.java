@@ -1,5 +1,5 @@
-import java.util.Random;
-import java.util.Scanner;
+import java.util.Random; //Importing random class in order to randomly assign availability of seats.
+import java.util.Scanner; // Using Scanner class for Input
 
 public class MovieTicketReservation {
 
@@ -10,7 +10,7 @@ public class MovieTicketReservation {
             "Animal", "Oppenheimer", "Multiverse of Madness", "All of Us Are Dead",
             "Train to Busan", "Fifty Shades of Grey", "Avatar: The Way of Water",
             "Annabelle", "Aquaman", "Wakanda Forever"
-    };
+    }; // Declaring 10 Movies , you can change the code as per your comfort. 
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
