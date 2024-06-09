@@ -7,7 +7,7 @@ public class MovieTicketReservation {
     static final int totalSeats = 50;
     static char[] seatingChart = new char[totalSeats];  // 1D array for simplicity
     static String[] movies = {
-            "Animal", "Oppenheimer", "Multiverse of Madness", "All of Us Are Dead",
+            "Animal", "Oppenheimer", "Lucifer", "All of Us Are Dead",
             "Train to Busan", "Fifty Shades of Grey", "Avatar: The Way of Water",
             "Annabelle", "Aquaman", "Wakanda Forever"
     }; // Declaring 10 Movies , you can change the code as per your comfort. 
